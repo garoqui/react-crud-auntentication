@@ -1,0 +1,1 @@
+export const SERVERTODOS = "https://crudcrud.com/api/0f79da15ae1a4845abe6efd226f40148/todos/"
